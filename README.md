@@ -1,5 +1,5 @@
 # Commission Fees Calculator
-This is a simple Node.js application for calculating commission fees for financial transactions based on pre-defined configurations. It supports three types of transactions: cash in, cash out by natural persons, and cash out by juridical persons.
+This is a simple Node.js application for calculating commission fees for financial transactions based on pre-defined APi configurations. It supports three types of transactions: cash in, cash out by natural persons, and cash out by juridical persons.
 
 ## Installation
 Use the package manager [npm](https://www.npmjs.com/) to install the project dependencies.  
@@ -10,3 +10,5 @@ Use the package manager [npm](https://www.npmjs.com/) to install the project dep
 `npm start`  
 * To run the unit tests, use the following command:  
 `npm test`
+* To run the lint check, use the following command:  
+`npm run lint`
